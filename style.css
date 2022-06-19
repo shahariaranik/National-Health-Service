@@ -1,0 +1,54 @@
+        .headerhigh{
+            color: #70BF44;
+        }
+        #header{
+            color: #393939;
+            font-family: sans-serif;
+            margin-left: 10%;
+            font-size: 100px;
+            
+        }
+        #headerphoto{
+            margin-top: 1%;
+            margin-left: 7%;
+            height: 10%;
+            
+            width: 10%;
+        }
+        .elements{
+            padding: 0.5% 2%;
+            border: #70BF44 10px solid ;
+            border-radius: 67px;
+            background-color: #70BF44;
+            height: 20%;
+            width: 15%;
+            margin-left: 10%;
+            padding-left: 2%;
+            padding-bottom: 10%;
+            margin-top: 2%;
+            float: left;
+        }
+        .hedelements{
+            color: white;
+            font-family: sans-serif;
+        }
+        .pelements{
+            color: white;
+            font-family: sans-serif;
+        }
+        .menu{
+            font-family: sans-serif;
+            margin-left: 70%;
+        }
+        .search{
+            font-family: sans-serif;
+            color: white;
+            border: #70BF44;
+            background-color: #70BF44;
+
+            width: 40%;
+            height: 10%;
+            padding: 0.5% 1%;
+            
+            margin-left: 10%;
+        }
