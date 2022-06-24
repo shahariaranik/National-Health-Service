@@ -1,0 +1,64 @@
+.container
+{
+    margin-bottom: 100px;
+    
+}
+.topimg{
+    width: 200px;
+}
+
+
+.searchbox{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 10px 10px 20px rgb(190, 190, 190);
+}
+
+
+.topsec{
+    color: #70BF44;
+}
+.gbato{
+    display: block;
+    border: none;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 24px;
+    margin-left: 10px;
+    color: #70BF44;
+    font-size: large;
+    border-radius: 20px;
+
+
+}
+.secal{
+    margin-left: 20px;
+}
+.parag{
+    margin-left: 10px;
+}
+.byenow{
+    background-image: linear-gradient(to bottom,#70BF44 0%,#70BF44 100%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-footer{
+    background-color: white;
+    margin-top: none;
+    border: none !important;
+}
+.cardd{
+    border: none ;
+    box-shadow: 10px 10px 20px lightgray;
+
+}
+footer{
+    text-align: center;
+}
